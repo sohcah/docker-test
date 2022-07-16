@@ -1,2 +1,2 @@
 FROM node:16-alpine
-CMD ["node", "-e", "console.log('8 + 7 = ', 8 + 7)"]
+CMD ["node", "-e", "console.log('12 * 3 =', 12 * 3)"]
